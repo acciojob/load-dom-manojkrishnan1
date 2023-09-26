@@ -1,2 +1,4 @@
 //your JS code here. If required.
-console.log('DOM load success');
+
+let b = document.getElementById('y');
+b.innerText = 'DOM load success';
